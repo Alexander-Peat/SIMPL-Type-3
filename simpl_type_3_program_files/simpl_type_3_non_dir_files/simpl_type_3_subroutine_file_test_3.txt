@@ -1,0 +1,10 @@
+10 this test saving subroutines
+20 to files on the computer
+30 beep
+40 bop
+50 GOSUB X
+SUBX
+10 this is the subroutine
+20 giggity
+30 beans
+ENDSUBX

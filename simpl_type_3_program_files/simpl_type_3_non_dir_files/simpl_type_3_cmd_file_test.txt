@@ -1,0 +1,7 @@
+10 can
+20 you
+30 save
+40 from
+50 the
+60 command
+70 prompt?

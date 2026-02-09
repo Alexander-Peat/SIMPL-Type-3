@@ -1,0 +1,16 @@
+10 this is another test
+20 of important subroutine
+30 file
+40 crap
+50 GOSUB X
+60 GOSUB Y
+SUBX
+10 sub
+20 routine
+30 X
+ENDSUBX
+SUBY
+10 sub
+20 routine
+30 Y
+ENDSUBY

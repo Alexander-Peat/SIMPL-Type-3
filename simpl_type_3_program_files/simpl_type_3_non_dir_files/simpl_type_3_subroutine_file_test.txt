@@ -1,0 +1,3 @@
+10 P;S;Subroutine saving test;
+20 GOSUB X
+SUBXX10 P;S;The actuall subroutine;X20 ENDSUB
